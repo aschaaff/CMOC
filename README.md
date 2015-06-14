@@ -11,3 +11,7 @@ A library which provides:
 - Adding of a disk into a MOC
 - Checking if the MOC is included in a circle
 - Intersection between a circle and a MOC
+
+The C library “is” around 60% faster than the Java library (benchmark with 1000 unions, 1000 intersections, 1000 differences)
+
+
