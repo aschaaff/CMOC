@@ -1,7 +1,6 @@
 # CMOC
 
-A C library for MOC (Multi-Order Coverage map)
-It is “inspired” from the Java library
+A C library for MOC (Multi-Order Coverage map) wich is “inspired” from the Java library
 
 A library which provides:
 - Reading of a FITS, JSON and CSV (catalogues) 
